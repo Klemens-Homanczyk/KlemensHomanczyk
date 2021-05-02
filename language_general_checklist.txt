@@ -6,7 +6,7 @@ Komentarze
 Zakończenie instrukcji
 Bloki kodu
 Duże i małe litery
-Tworzenie procedur
+Procedura przykład
 Funkcja main (generalnie punkt wejścia)
 Biblioteki zewnętrzne
 Pisanie na ekran
