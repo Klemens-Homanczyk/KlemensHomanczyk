@@ -1,0 +1,25 @@
+Elementy języka programowania
+-----------------------------
+Przeznaczenie języka
+Instalacja środowiska
+Komentarze
+Zakończenie instrukcji
+Bloki kodu
+Duże i małe litery
+Tworzenie procedur
+Funkcja main (generalnie punkt wejścia)
+Biblioteki zewnętrzne
+Pisanie na ekran
+Typy danych
+Zmienie: typowanie, deklarowanie, przypisanie (operator przypisania), używanie
+Procedury: tworzenie, używanie, argumenty, wartość zwracana
+Sterowanie wykonaniem: warunek (operatory logiczne), pętla, wyjście z pętli
+Obsługa wyjątków
+Czytanie z ekranu
+Odczyt pliku
+Zapis do pliku
+Działania na liczbach
+Działania na napisach
+Działania na datach
+Kolekcje danych: tworzenie, przypisanie, czytanie, niszczenie
+
