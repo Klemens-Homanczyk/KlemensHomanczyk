@@ -1,0 +1,38 @@
+Elementy języka danych
+-----------------------------
+Przeznaczenie języka
+Instalacja środowiska
+Komentarze
+Zakończenie instrukcji
+Bloki kodu
+Duże i małe litery
+
+Typy danych
+Podstawowe odczytywanie danych z tabeli
+Wybieranie wierszy z tabeli
+Łączenie tabel
+Łączenie wyników zapytań
+Grupowanie
+Funkcje na grupach
+Podzapytania
+Modyfikowanie danych (insert, update, delete)
+Transakcje
+Tworzenie baz danych (create, alter, drop)
+Widoki
+Indeksy
+Uprawnienia
+
+Funkcje i procedury
+Typy danych
+Zmienie: typowanie, deklarowanie, przypisanie (operator przypisania), używanie
+Procedury: tworzenie, używanie, argumenty, wartość zwracana
+Sterowanie wykonaniem: warunek (operatory logiczne), pętla, wyjście z pętli
+Obsługa wyjątków
+Działania na liczbach
+Działania na napisach
+Działania na datach
+Kolekcje danych: tworzenie, przypisanie, czytanie, niszczenie
+Pisanie na ekran
+
+
+
